@@ -1,6 +1,8 @@
 # campus-coffee
 Coffee shop sales, weather, and reviews from MIST 460
 # Campus Coffee
+
+#GAME OF THE WEEK!
 App Name: Game of the Week! 
 
 My app helps Steam Workers decide which game to put on their front page by having critics and players review the games.
