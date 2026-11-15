@@ -1,13 +1,14 @@
 # campus-coffee
 Coffee shop sales, weather, and reviews from MIST 460
 # Campus Coffee
+App Name: Game of the Week! 
 
 My app helps Steam Workers decide which game to put on their front page by having critics and players review the games.
 
 > A course project for **MIST 4600: Computer Programming in Business** at the University of Georgia's Terry College of Business.
 
 ## Problem
-Who your user is, what decision they have to make, and why it's hard without your app. (2-3 sentences)
+
 My user is the Steam workers and they have to decide which game to put on their front page. This is hard without my app because then they won't know which game to push out and make the most profit.
 
 ## What it does
